@@ -17,7 +17,7 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '分享技术',
   HEO_HERO_TITLE_2: '与生活感悟',
   HEO_HERO_TITLE_3: 'same1e-blog',
-  HEO_HERO_TITLE_4: '新版上线',
+  HEO_HERO_TITLE_4: '探索新事物',
   HEO_HERO_TITLE_5: '万物皆可AI',
   HEO_HERO_TITLE_LINK: 'https://same1e-blog.vercel.app',
 
